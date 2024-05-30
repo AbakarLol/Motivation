@@ -28,7 +28,9 @@ img{
 p{
     font-weight: 200;
     font-size: 16pt;
+    text-transform: capitalize;
 }
 h1{
     font-size: 30pt;
+    text-transform: uppercase;
 }
